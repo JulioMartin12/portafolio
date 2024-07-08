@@ -159,7 +159,7 @@ padding: 3% 1% 3% 0%;
 
 @media(max-width:960px){
   .presentacion__contenido {
-    width:80%;
+    width:90%;
     gap: 3rem;
     margin: 2.5rem;
    
@@ -171,7 +171,7 @@ padding: 3% 1% 3% 0%;
   .presentacion__enlaces_link{
  
     padding: auto;
-    width: 50%;
+    width: 60%;
    
   }
   .presentacion__enlaces__subtitulo{
